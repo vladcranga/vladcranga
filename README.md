@@ -12,10 +12,11 @@
 [<img align="left" alt="LinkedIn" width="30px" src="https://shefesh.com/assets/images/icons/linkedin.png" />][linkedin]
 
 ---
+  <br>
   <summary>:zap: GitHub Stats</summary>
   
   <img align="left" alt="vladcranga's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcranga&theme=dark&hide_langs_below=1" />
-
+  <br>
   <img align="centre" alt="vladcranga's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vladcranga&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 [website]: https://vladcranga.github.io
