@@ -8,6 +8,16 @@
 [<img align="left" alt="personal website" width="30px" src="https://shefesh.com/assets/images/icons/internet.png" />][website]
 [<img align="left" alt="LinkedIn" width="30px" src="https://shefesh.com/assets/images/icons/linkedin.png" />][linkedin]
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="vladcranga's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vladcranga&show_icons=true&hide_border=true" />
+
+</details>
+
+
 [website]: https://vladcranga.github.io
 [linkedin]: https://www.linkedin.com/in/vlad-m-cranga-022775210/
 
