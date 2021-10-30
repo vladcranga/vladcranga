@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Vlad.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vladcranga&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 - 👀 I’m interested in programming, Linux, security.
 - 🌱 I’m currently learning Python.
@@ -17,8 +17,6 @@
   <img align="left" alt="vladcranga's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcranga&theme=dark&hide_langs_below=1" />
 
   <img align="centre" alt="vladcranga's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vladcranga&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
-
 
 [website]: https://vladcranga.github.io
 [linkedin]: https://www.linkedin.com/in/vlad-m-cranga-022775210/
