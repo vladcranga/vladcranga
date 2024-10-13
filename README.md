@@ -8,8 +8,8 @@
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="personal website" width="30px" src="https://shefesh.com/assets/images/icons/internet.png" />][website]
-[<img align="left" alt="LinkedIn" width="30px" src="https://shefesh.com/assets/images/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="personal website" width="30px" src="https://img.icons8.com/fluent/48/000000/domain.png" />][website]
+[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 
 ---
   <br>
