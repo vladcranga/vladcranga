@@ -2,14 +2,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladcranga&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-- 👀 I’m interested in programming, Linux, security.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on hackaton projects.
+- 👀 I’m interested in software engineering, cybersecurity, and Linux.
+- 💞️ I’m looking to collaborate on open-source and hackaton projects.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ### 📫 Connect with me:
-
-[<img align="left" alt="personal website" width="30px" src="https://img.icons8.com/fluent/48/000000/domain.png" />][website]
-[<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+---
+[<img align="center" alt="personal website" width="120x" src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" />][website]
+[<img align="center" alt="LinkedIn" width="120px" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />][linkedin]
 
 ---
   <br>
