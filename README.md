@@ -21,11 +21,9 @@
 #### Cloud & DevOps
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=amazonaws&logoColor=white)](#)
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?logo=google-cloud&logoColor=white)](#)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)](#)
 
 #### Methodologies
 [![Agile](https://img.shields.io/badge/Agile-28a745?logo=agile&logoColor=white)](#)
@@ -43,7 +41,7 @@
   <br>
   <summary>:zap: GitHub Stats</summary>
   
-  <img align="left" alt="vladcranga's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcranga&theme=dark&langs_count=6" />
+  <img align="left" alt="vladcranga's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcranga&theme=dark&langs_count=9" />
   <br>
   <img align="centre" alt="vladcranga's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vladcranga&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
   <br>
