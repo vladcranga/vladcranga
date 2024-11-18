@@ -47,6 +47,11 @@
   <br>
   
 ---
+---
+<br>
+<br>
+<br>
+<br>
 <summary>:zap: GitHub Trophies</summary>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vladcranga&theme=onedark)
