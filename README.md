@@ -40,21 +40,12 @@
 ---
   <br>
   <summary>:zap: GitHub Stats</summary>
-  
+  <br>
   <img align="left" alt="vladcranga's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcranga&theme=dark&langs_count=9" />
-  <br>
-  <img align="centre" alt="vladcranga's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vladcranga&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-  <br>
-  
----
----
-<br>
-<br>
-<br>
-<br>
-<summary>:zap: GitHub Trophies</summary>
+  <img align="centre" alt="vladcranga's GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=vladcranga&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide=issues,contribs" />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vladcranga&theme=onedark&title=MultiLanguage,Commits,PullRequest,Experience,Repositories,Stars)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vladcranga&theme=onedark&row=2&column=4&title=MultiLanguage,Commits,PullRequest,Experience,Repositories,Stars)
 
 ---
 
