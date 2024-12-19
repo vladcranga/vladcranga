@@ -54,7 +54,7 @@
 <br>
 <summary>:zap: GitHub Trophies</summary>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vladcranga&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vladcranga&theme=onedark&title=MultiLanguage,Commits,PullRequest,Experience,Repositories,Stars)
 
 ---
 
