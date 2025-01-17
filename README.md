@@ -18,6 +18,11 @@
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#)
 
+#### Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)](#)
+
 #### Cloud & DevOps
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=amazonaws&logoColor=white)](#)
